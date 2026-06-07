@@ -62,21 +62,37 @@ Passionate Software Engineer with 15+ years of experience delivering diverse, sc
 
 ## 🛠️ Technical Skills
 
-**Languages:** Go | Java | Python | JavaScript | C++ | Rust | C#
+### Languages
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 
-**Specializations:** Backend Development | System Design | Performance Optimization | Microservices
+### Technologies
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Qt](https://img.shields.io/badge/Qt-%2341CD52.svg?style=for-the-badge&logo=qt&logoColor=white)
+![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl&logoColor=black)
 
-**Technologies:** Docker | RDBMS-SQL | Cloud Architecture (AWS/GCP) | Qt | Boost | OpenGL | DirectX
+### Methodologies
+**Technical Leadership** | **Agile** | **BDD** | **Mentoring**
 
-**Methodologies:** Agile | BDD | Technical Leadership | Mentoring
+### Specializations
+**Backend Development** | **System Design** | **Performance Optimization** | **Microservices**
 
 ---
 
 ## 🌍 Languages
 
-- **Spanish** — Native/Bilingual
-- **English** — Full Professional
-- **Portuguese** — Limited Working
+- 🇦🇷 **Spanish** — Native/Bilingual
+- 🇺🇸 **English** — Full Professional
+- 🇧🇷 **Portuguese** — Limited Working
 
 ---
 
