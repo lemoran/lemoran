@@ -8,7 +8,7 @@
 
 ## About Me
 
-Passionate Software Engineer with 15+ years of experience delivering diverse, scalable solutions. Specialized in backend development with expertise in C++, Go, and Rust. Currently leading technical initiatives at Mercado Libre, focused on cross-border trade and fraud prevention. Committed to applying cutting-edge technology to optimize user experience and system efficiency.
+Passionate Software Engineer with 15+ years of experience delivering diverse, scalable solutions. Specialized in backend development with expertise in C++, Go, and Rust. Currently leading technical initiatives at Mercado Libre, focused on cross-border trade. Committed to applying cutting-edge technology to optimize user experience and system efficiency.
 
 ---
 
@@ -18,7 +18,7 @@ Passionate Software Engineer with 15+ years of experience delivering diverse, sc
 *October 2018 - Present (7+ years)* | Córdoba
 
 - Leading initiatives for Mercado Libre Cross Border Trade
-- Architecting solutions for Mercado Pago Fraud Prevention
+- Led solutions for Mercado Pago Fraud Prevention
 - Technical leadership and mentoring
 
 ### **Globant** — Software Designer
@@ -62,11 +62,11 @@ Passionate Software Engineer with 15+ years of experience delivering diverse, sc
 
 ## 🛠️ Technical Skills
 
-**Languages:** C++ | Go | Rust | Python | C# | Java | JavaScript
+**Languages:** Go | Java | Python | JavaScript | C++ | Rust | C#
 
 **Specializations:** Backend Development | System Design | Performance Optimization | Microservices
 
-**Technologies:** Qt | OpenGL | DirectX | Boost | MongoDB | MS SQL Server | Docker | Agile
+**Technologies:** Docker | RDBMS-SQL | Cloud Architecture (AWS/GCP) | Qt | Boost | OpenGL | DirectX
 
 **Methodologies:** Agile | BDD | Technical Leadership | Mentoring
 
