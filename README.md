@@ -1,6 +1,6 @@
 # 👋 Luis Moran
 
-**Software Tech Lead @ Mercado Libre** | Senior Software Engineer | Backend Specialist
+**Software Tech Lead @ Mercado Libre** | Senior Software Engineer | C++, Go, Golang, Rust | Backend Specialist | Building Scalability
 
 📍 Córdoba, Argentina | 🔗 [LinkedIn](https://www.linkedin.com/in/lemoran)
 
