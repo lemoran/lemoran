@@ -1,4 +1,4 @@
-# 👋 Luis Moran
+# Luis Moran
 
 **Software Tech Lead @ Mercado Libre** | Senior Software Engineer | C++, Go, Golang, Rust | Backend Specialist | Building Scalability
 
